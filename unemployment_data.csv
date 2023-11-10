@@ -1,0 +1,1709 @@
+year,month,industry,unemployed,rate
+2000,1,Government,430,2.1
+2000,2,Government,409,2.0
+2000,3,Government,311,1.5
+2000,4,Government,269,1.3
+2000,5,Government,370,1.9
+2000,6,Government,603,3.1
+2000,7,Government,545,2.9
+2000,8,Government,583,3.1
+2000,9,Government,408,2.1
+2000,10,Government,391,2.0
+2000,11,Government,384,1.9
+2000,12,Government,365,1.8
+2001,1,Government,463,2.3
+2001,2,Government,298,1.5
+2001,3,Government,355,1.8
+2001,4,Government,369,1.9
+2001,5,Government,361,1.8
+2001,6,Government,525,2.7
+2001,7,Government,548,2.8
+2001,8,Government,540,2.8
+2001,9,Government,438,2.2
+2001,10,Government,429,2.2
+2001,11,Government,420,2.1
+2001,12,Government,419,2.1
+2002,1,Government,486,2.4
+2002,2,Government,508,2.5
+2002,3,Government,477,2.4
+2002,4,Government,447,2.2
+2002,5,Government,484,2.3
+2002,6,Government,561,2.8
+2002,7,Government,645,3.2
+2002,8,Government,596,3.0
+2002,9,Government,530,2.6
+2002,10,Government,499,2.5
+2002,11,Government,468,2.3
+2002,12,Government,446,2.2
+2003,1,Government,571,2.8
+2003,2,Government,483,2.4
+2003,3,Government,526,2.6
+2003,4,Government,440,2.2
+2003,5,Government,478,2.4
+2003,6,Government,704,3.5
+2003,7,Government,749,3.8
+2003,8,Government,745,3.7
+2003,9,Government,556,2.7
+2003,10,Government,500,2.4
+2003,11,Government,542,2.7
+2003,12,Government,516,2.5
+2004,1,Government,511,2.5
+2004,2,Government,490,2.4
+2004,3,Government,530,2.6
+2004,4,Government,433,2.1
+2004,5,Government,468,2.3
+2004,6,Government,580,2.8
+2004,7,Government,741,3.7
+2004,8,Government,676,3.3
+2004,9,Government,568,2.7
+2004,10,Government,561,2.7
+2004,11,Government,514,2.4
+2004,12,Government,499,2.4
+2005,1,Government,555,2.6
+2005,2,Government,472,2.3
+2005,3,Government,468,2.2
+2005,4,Government,478,2.3
+2005,5,Government,453,2.1
+2005,6,Government,681,3.2
+2005,7,Government,683,3.3
+2005,8,Government,664,3.2
+2005,9,Government,568,2.7
+2005,10,Government,502,2.4
+2005,11,Government,494,2.4
+2005,12,Government,393,1.9
+2006,1,Government,457,2.2
+2006,2,Government,472,2.3
+2006,3,Government,461,2.2
+2006,4,Government,414,2.0
+2006,5,Government,429,2.1
+2006,6,Government,578,2.8
+2006,7,Government,659,3.2
+2006,8,Government,595,2.9
+2006,9,Government,396,1.9
+2006,10,Government,424,2.0
+2006,11,Government,400,1.9
+2006,12,Government,395,1.9
+2007,1,Government,476,2.2
+2007,2,Government,405,1.9
+2007,3,Government,419,1.9
+2007,4,Government,408,1.9
+2007,5,Government,428,1.9
+2007,6,Government,572,2.7
+2007,7,Government,704,3.3
+2007,8,Government,695,3.2
+2007,9,Government,525,2.4
+2007,10,Government,492,2.3
+2007,11,Government,482,2.2
+2007,12,Government,451,2.1
+2008,1,Government,471,2.2
+2008,2,Government,372,1.7
+2008,3,Government,425,1.9
+2008,4,Government,373,1.7
+2008,5,Government,461,2.1
+2008,6,Government,654,3.0
+2008,7,Government,770,3.6
+2008,8,Government,721,3.3
+2008,9,Government,573,2.6
+2008,10,Government,552,2.5
+2008,11,Government,527,2.4
+2008,12,Government,511,2.3
+2009,1,Government,652,3.0
+2009,2,Government,563,2.6
+2009,3,Government,598,2.8
+2009,4,Government,575,2.6
+2009,5,Government,702,3.1
+2009,6,Government,991,4.4
+2009,7,Government,1129,5.1
+2009,8,Government,1118,5.1
+2009,9,Government,928,4.2
+2009,10,Government,785,3.5
+2009,11,Government,748,3.4
+2009,12,Government,797,3.6
+2010,1,Government,948,4.3
+2010,2,Government,880,4.0
+2000,1,Mining and Extraction,19,3.9
+2000,2,Mining and Extraction,25,5.5
+2000,3,Mining and Extraction,17,3.7
+2000,4,Mining and Extraction,20,4.1
+2000,5,Mining and Extraction,27,5.3
+2000,6,Mining and Extraction,13,2.6
+2000,7,Mining and Extraction,16,3.6
+2000,8,Mining and Extraction,23,5.1
+2000,9,Mining and Extraction,25,5.8
+2000,10,Mining and Extraction,39,7.8
+2000,11,Mining and Extraction,11,2.0
+2000,12,Mining and Extraction,20,3.8
+2001,1,Mining and Extraction,11,2.3
+2001,2,Mining and Extraction,27,5.3
+2001,3,Mining and Extraction,14,3.0
+2001,4,Mining and Extraction,24,4.7
+2001,5,Mining and Extraction,34,5.9
+2001,6,Mining and Extraction,26,4.7
+2001,7,Mining and Extraction,17,3.1
+2001,8,Mining and Extraction,18,3.3
+2001,9,Mining and Extraction,23,4.2
+2001,10,Mining and Extraction,32,5.4
+2001,11,Mining and Extraction,20,3.6
+2001,12,Mining and Extraction,27,5.3
+2002,1,Mining and Extraction,33,7.0
+2002,2,Mining and Extraction,35,7.5
+2002,3,Mining and Extraction,28,5.3
+2002,4,Mining and Extraction,33,6.1
+2002,5,Mining and Extraction,25,4.9
+2002,6,Mining and Extraction,35,7.1
+2002,7,Mining and Extraction,19,3.9
+2002,8,Mining and Extraction,32,6.3
+2002,9,Mining and Extraction,42,7.9
+2002,10,Mining and Extraction,36,6.4
+2002,11,Mining and Extraction,32,5.4
+2002,12,Mining and Extraction,45,7.8
+2003,1,Mining and Extraction,54,9.0
+2003,2,Mining and Extraction,41,7.1
+2003,3,Mining and Extraction,46,8.2
+2003,4,Mining and Extraction,41,7.7
+2003,5,Mining and Extraction,40,7.5
+2003,6,Mining and Extraction,36,6.8
+2003,7,Mining and Extraction,43,7.9
+2003,8,Mining and Extraction,20,3.8
+2003,9,Mining and Extraction,25,4.6
+2003,10,Mining and Extraction,31,5.6
+2003,11,Mining and Extraction,34,5.9
+2003,12,Mining and Extraction,32,5.6
+2004,1,Mining and Extraction,31,5.8
+2004,2,Mining and Extraction,24,5.0
+2004,3,Mining and Extraction,22,4.4
+2004,4,Mining and Extraction,34,6.4
+2004,5,Mining and Extraction,22,4.3
+2004,6,Mining and Extraction,27,5.0
+2004,7,Mining and Extraction,28,5.4
+2004,8,Mining and Extraction,10,1.9
+2004,9,Mining and Extraction,8,1.5
+2004,10,Mining and Extraction,15,2.6
+2004,11,Mining and Extraction,20,3.3
+2004,12,Mining and Extraction,16,2.5
+2005,1,Mining and Extraction,29,4.9
+2005,2,Mining and Extraction,25,4.0
+2005,3,Mining and Extraction,32,5.2
+2005,4,Mining and Extraction,19,2.9
+2005,5,Mining and Extraction,16,2.4
+2005,6,Mining and Extraction,25,4.0
+2005,7,Mining and Extraction,22,3.7
+2005,8,Mining and Extraction,12,2.0
+2005,9,Mining and Extraction,12,2.0
+2005,10,Mining and Extraction,2,0.3
+2005,11,Mining and Extraction,18,2.9
+2005,12,Mining and Extraction,23,3.5
+2006,1,Mining and Extraction,26,3.9
+2006,2,Mining and Extraction,25,3.8
+2006,3,Mining and Extraction,14,2.1
+2006,4,Mining and Extraction,17,2.5
+2006,5,Mining and Extraction,20,2.8
+2006,6,Mining and Extraction,31,4.3
+2006,7,Mining and Extraction,25,3.5
+2006,8,Mining and Extraction,32,4.3
+2006,9,Mining and Extraction,14,2.1
+2006,10,Mining and Extraction,15,2.2
+2006,11,Mining and Extraction,22,2.9
+2006,12,Mining and Extraction,25,3.4
+2007,1,Mining and Extraction,35,4.7
+2007,2,Mining and Extraction,33,4.5
+2007,3,Mining and Extraction,24,3.2
+2007,4,Mining and Extraction,17,2.3
+2007,5,Mining and Extraction,22,3.0
+2007,6,Mining and Extraction,33,4.3
+2007,7,Mining and Extraction,33,4.3
+2007,8,Mining and Extraction,33,4.6
+2007,9,Mining and Extraction,25,3.2
+2007,10,Mining and Extraction,9,1.3
+2007,11,Mining and Extraction,16,2.3
+2007,12,Mining and Extraction,24,3.4
+2008,1,Mining and Extraction,28,4.0
+2008,2,Mining and Extraction,16,2.2
+2008,3,Mining and Extraction,28,3.7
+2008,4,Mining and Extraction,28,3.6
+2008,5,Mining and Extraction,28,3.4
+2008,6,Mining and Extraction,28,3.3
+2008,7,Mining and Extraction,13,1.5
+2008,8,Mining and Extraction,17,1.9
+2008,9,Mining and Extraction,25,2.8
+2008,10,Mining and Extraction,15,1.7
+2008,11,Mining and Extraction,32,3.7
+2008,12,Mining and Extraction,46,5.2
+2009,1,Mining and Extraction,59,7.0
+2009,2,Mining and Extraction,63,7.6
+2009,3,Mining and Extraction,105,12.6
+2009,4,Mining and Extraction,125,16.1
+2009,5,Mining and Extraction,98,13.3
+2009,6,Mining and Extraction,100,13.6
+2009,7,Mining and Extraction,95,12.6
+2009,8,Mining and Extraction,93,11.8
+2009,9,Mining and Extraction,76,10.7
+2009,10,Mining and Extraction,84,10.8
+2009,11,Mining and Extraction,96,12.0
+2009,12,Mining and Extraction,89,11.8
+2010,1,Mining and Extraction,68,9.1
+2010,2,Mining and Extraction,79,10.7
+2000,1,Construction,745,9.7
+2000,2,Construction,812,10.6
+2000,3,Construction,669,8.7
+2000,4,Construction,447,5.8
+2000,5,Construction,397,5.0
+2000,6,Construction,389,4.6
+2000,7,Construction,384,4.4
+2000,8,Construction,446,5.1
+2000,9,Construction,386,4.6
+2000,10,Construction,417,4.9
+2000,11,Construction,482,5.7
+2000,12,Construction,580,6.8
+2001,1,Construction,836,9.8
+2001,2,Construction,826,9.9
+2001,3,Construction,683,8.4
+2001,4,Construction,596,7.1
+2001,5,Construction,478,5.6
+2001,6,Construction,443,5.1
+2001,7,Construction,447,4.9
+2001,8,Construction,522,5.8
+2001,9,Construction,489,5.5
+2001,10,Construction,535,6.1
+2001,11,Construction,670,7.6
+2001,12,Construction,785,9.0
+2002,1,Construction,1211,13.6
+2002,2,Construction,1060,12.2
+2002,3,Construction,1009,11.8
+2002,4,Construction,855,10.1
+2002,5,Construction,626,7.4
+2002,6,Construction,593,6.9
+2002,7,Construction,594,6.9
+2002,8,Construction,654,7.4
+2002,9,Construction,615,7.0
+2002,10,Construction,680,7.7
+2002,11,Construction,758,8.5
+2002,12,Construction,941,10.9
+2003,1,Construction,1196,14.0
+2003,2,Construction,1173,14.0
+2003,3,Construction,987,11.8
+2003,4,Construction,772,9.3
+2003,5,Construction,715,8.4
+2003,6,Construction,710,7.9
+2003,7,Construction,677,7.5
+2003,8,Construction,650,7.1
+2003,9,Construction,681,7.6
+2003,10,Construction,651,7.4
+2003,11,Construction,690,7.8
+2003,12,Construction,813,9.3
+2004,1,Construction,994,11.3
+2004,2,Construction,1039,11.6
+2004,3,Construction,1011,11.3
+2004,4,Construction,849,9.5
+2004,5,Construction,665,7.4
+2004,6,Construction,668,7.0
+2004,7,Construction,610,6.4
+2004,8,Construction,563,6.0
+2004,9,Construction,629,6.8
+2004,10,Construction,635,6.9
+2004,11,Construction,695,7.4
+2004,12,Construction,870,9.5
+2005,1,Construction,1079,11.8
+2005,2,Construction,1150,12.3
+2005,3,Construction,961,10.3
+2005,4,Construction,693,7.4
+2005,5,Construction,567,6.1
+2005,6,Construction,559,5.7
+2005,7,Construction,509,5.2
+2005,8,Construction,561,5.7
+2005,9,Construction,572,5.7
+2005,10,Construction,519,5.3
+2005,11,Construction,564,5.7
+2005,12,Construction,813,8.2
+2006,1,Construction,868,9.0
+2006,2,Construction,836,8.6
+2006,3,Construction,820,8.5
+2006,4,Construction,674,6.9
+2006,5,Construction,647,6.6
+2006,6,Construction,569,5.6
+2006,7,Construction,633,6.1
+2006,8,Construction,618,5.9
+2006,9,Construction,586,5.6
+2006,10,Construction,456,4.5
+2006,11,Construction,618,6.0
+2006,12,Construction,725,6.9
+2007,1,Construction,922,8.9
+2007,2,Construction,1086,10.5
+2007,3,Construction,924,9.0
+2007,4,Construction,853,8.6
+2007,5,Construction,676,6.9
+2007,6,Construction,600,5.9
+2007,7,Construction,617,5.9
+2007,8,Construction,558,5.3
+2007,9,Construction,596,5.8
+2007,10,Construction,641,6.1
+2007,11,Construction,645,6.2
+2007,12,Construction,968,9.4
+2008,1,Construction,1099,11.0
+2008,2,Construction,1118,11.4
+2008,3,Construction,1170,12.0
+2008,4,Construction,1057,11.1
+2008,5,Construction,809,8.6
+2008,6,Construction,785,8.2
+2008,7,Construction,783,8.0
+2008,8,Construction,814,8.2
+2008,9,Construction,970,9.9
+2008,10,Construction,1078,10.8
+2008,11,Construction,1237,12.7
+2008,12,Construction,1438,15.3
+2009,1,Construction,1744,18.2
+2009,2,Construction,2025,21.4
+2009,3,Construction,1979,21.1
+2009,4,Construction,1737,18.7
+2009,5,Construction,1768,19.2
+2009,6,Construction,1601,17.4
+2009,7,Construction,1687,18.2
+2009,8,Construction,1542,16.5
+2009,9,Construction,1594,17.1
+2009,10,Construction,1744,18.7
+2009,11,Construction,1780,19.4
+2009,12,Construction,2044,22.7
+2010,1,Construction,2194,24.7
+2010,2,Construction,2440,27.1
+2000,1,Manufacturing,734,3.6
+2000,2,Manufacturing,694,3.4
+2000,3,Manufacturing,739,3.6
+2000,4,Manufacturing,736,3.7
+2000,5,Manufacturing,685,3.4
+2000,6,Manufacturing,621,3.1
+2000,7,Manufacturing,708,3.6
+2000,8,Manufacturing,685,3.4
+2000,9,Manufacturing,667,3.4
+2000,10,Manufacturing,693,3.6
+2000,11,Manufacturing,672,3.4
+2000,12,Manufacturing,653,3.3
+2001,1,Manufacturing,911,4.6
+2001,2,Manufacturing,902,4.6
+2001,3,Manufacturing,954,4.9
+2001,4,Manufacturing,855,4.4
+2001,5,Manufacturing,903,4.7
+2001,6,Manufacturing,956,5.0
+2001,7,Manufacturing,1054,5.6
+2001,8,Manufacturing,1023,5.5
+2001,9,Manufacturing,996,5.4
+2001,10,Manufacturing,1065,5.8
+2001,11,Manufacturing,1108,6.0
+2001,12,Manufacturing,1172,6.3
+2002,1,Manufacturing,1377,7.4
+2002,2,Manufacturing,1296,7.0
+2002,3,Manufacturing,1367,7.3
+2002,4,Manufacturing,1322,7.2
+2002,5,Manufacturing,1194,6.6
+2002,6,Manufacturing,1187,6.6
+2002,7,Manufacturing,1185,6.6
+2002,8,Manufacturing,1108,6.2
+2002,9,Manufacturing,1076,6.1
+2002,10,Manufacturing,1046,5.9
+2002,11,Manufacturing,1115,6.3
+2002,12,Manufacturing,1188,6.6
+2003,1,Manufacturing,1302,7.2
+2003,2,Manufacturing,1229,6.7
+2003,3,Manufacturing,1222,6.8
+2003,4,Manufacturing,1199,6.7
+2003,5,Manufacturing,1150,6.5
+2003,6,Manufacturing,1232,7.0
+2003,7,Manufacturing,1193,6.9
+2003,8,Manufacturing,1186,6.7
+2003,9,Manufacturing,1175,6.8
+2003,10,Manufacturing,1041,6.0
+2003,11,Manufacturing,1034,5.9
+2003,12,Manufacturing,1025,5.9
+2004,1,Manufacturing,1110,6.4
+2004,2,Manufacturing,1094,6.3
+2004,3,Manufacturing,1083,6.3
+2004,4,Manufacturing,1004,5.8
+2004,5,Manufacturing,966,5.6
+2004,6,Manufacturing,957,5.6
+2004,7,Manufacturing,1019,6.0
+2004,8,Manufacturing,840,4.9
+2004,9,Manufacturing,852,5.0
+2004,10,Manufacturing,884,5.3
+2004,11,Manufacturing,905,5.4
+2004,12,Manufacturing,872,5.1
+2005,1,Manufacturing,889,5.3
+2005,2,Manufacturing,889,5.3
+2005,3,Manufacturing,879,5.3
+2005,4,Manufacturing,793,4.8
+2005,5,Manufacturing,743,4.5
+2005,6,Manufacturing,743,4.4
+2005,7,Manufacturing,883,5.3
+2005,8,Manufacturing,767,4.7
+2005,9,Manufacturing,775,4.7
+2005,10,Manufacturing,800,4.8
+2005,11,Manufacturing,823,4.9
+2005,12,Manufacturing,757,4.5
+2006,1,Manufacturing,778,4.6
+2006,2,Manufacturing,821,4.9
+2006,3,Manufacturing,701,4.1
+2006,4,Manufacturing,745,4.5
+2006,5,Manufacturing,680,4.1
+2006,6,Manufacturing,635,3.8
+2006,7,Manufacturing,736,4.4
+2006,8,Manufacturing,680,4.1
+2006,9,Manufacturing,632,3.8
+2006,10,Manufacturing,618,3.7
+2006,11,Manufacturing,702,4.3
+2006,12,Manufacturing,660,4.0
+2007,1,Manufacturing,752,4.6
+2007,2,Manufacturing,774,4.7
+2007,3,Manufacturing,742,4.5
+2007,4,Manufacturing,749,4.6
+2007,5,Manufacturing,651,3.9
+2007,6,Manufacturing,653,4.0
+2007,7,Manufacturing,621,3.7
+2007,8,Manufacturing,596,3.6
+2007,9,Manufacturing,673,4.1
+2007,10,Manufacturing,729,4.3
+2007,11,Manufacturing,762,4.5
+2007,12,Manufacturing,772,4.6
+2008,1,Manufacturing,837,5.1
+2008,2,Manufacturing,820,5.0
+2008,3,Manufacturing,831,5.0
+2008,4,Manufacturing,796,4.8
+2008,5,Manufacturing,879,5.3
+2008,6,Manufacturing,862,5.2
+2008,7,Manufacturing,908,5.5
+2008,8,Manufacturing,960,5.7
+2008,9,Manufacturing,984,6.0
+2008,10,Manufacturing,1007,6.2
+2008,11,Manufacturing,1144,7.0
+2008,12,Manufacturing,1315,8.3
+2009,1,Manufacturing,1711,10.9
+2009,2,Manufacturing,1822,11.5
+2009,3,Manufacturing,1912,12.2
+2009,4,Manufacturing,1968,12.4
+2009,5,Manufacturing,2010,12.6
+2009,6,Manufacturing,2010,12.6
+2009,7,Manufacturing,1988,12.4
+2009,8,Manufacturing,1866,11.8
+2009,9,Manufacturing,1876,11.9
+2009,10,Manufacturing,1884,12.2
+2009,11,Manufacturing,1882,12.5
+2009,12,Manufacturing,1747,11.9
+2010,1,Manufacturing,1918,13.0
+2010,2,Manufacturing,1814,12.1
+2000,1,Wholesale and Retail Trade,1000,5.0
+2000,2,Wholesale and Retail Trade,1023,5.2
+2000,3,Wholesale and Retail Trade,983,5.1
+2000,4,Wholesale and Retail Trade,793,4.1
+2000,5,Wholesale and Retail Trade,821,4.3
+2000,6,Wholesale and Retail Trade,837,4.4
+2000,7,Wholesale and Retail Trade,792,4.1
+2000,8,Wholesale and Retail Trade,853,4.3
+2000,9,Wholesale and Retail Trade,791,4.1
+2000,10,Wholesale and Retail Trade,739,3.7
+2000,11,Wholesale and Retail Trade,701,3.6
+2000,12,Wholesale and Retail Trade,715,3.7
+2001,1,Wholesale and Retail Trade,908,4.7
+2001,2,Wholesale and Retail Trade,990,5.2
+2001,3,Wholesale and Retail Trade,1037,5.4
+2001,4,Wholesale and Retail Trade,820,4.3
+2001,5,Wholesale and Retail Trade,875,4.5
+2001,6,Wholesale and Retail Trade,955,4.9
+2001,7,Wholesale and Retail Trade,833,4.3
+2001,8,Wholesale and Retail Trade,928,4.8
+2001,9,Wholesale and Retail Trade,936,4.8
+2001,10,Wholesale and Retail Trade,941,4.8
+2001,11,Wholesale and Retail Trade,1046,5.3
+2001,12,Wholesale and Retail Trade,1074,5.4
+2002,1,Wholesale and Retail Trade,1212,6.3
+2002,2,Wholesale and Retail Trade,1264,6.6
+2002,3,Wholesale and Retail Trade,1269,6.6
+2002,4,Wholesale and Retail Trade,1222,6.4
+2002,5,Wholesale and Retail Trade,1138,5.8
+2002,6,Wholesale and Retail Trade,1240,6.2
+2002,7,Wholesale and Retail Trade,1132,5.6
+2002,8,Wholesale and Retail Trade,1170,5.8
+2002,9,Wholesale and Retail Trade,1171,5.9
+2002,10,Wholesale and Retail Trade,1212,6.1
+2002,11,Wholesale and Retail Trade,1242,6.2
+2002,12,Wholesale and Retail Trade,1150,5.7
+2003,1,Wholesale and Retail Trade,1342,6.7
+2003,2,Wholesale and Retail Trade,1238,6.1
+2003,3,Wholesale and Retail Trade,1179,5.9
+2003,4,Wholesale and Retail Trade,1201,6.0
+2003,5,Wholesale and Retail Trade,1247,6.2
+2003,6,Wholesale and Retail Trade,1434,6.9
+2003,7,Wholesale and Retail Trade,1387,6.6
+2003,8,Wholesale and Retail Trade,1161,5.6
+2003,9,Wholesale and Retail Trade,1229,5.9
+2003,10,Wholesale and Retail Trade,1189,5.7
+2003,11,Wholesale and Retail Trade,1156,5.4
+2003,12,Wholesale and Retail Trade,1081,5.0
+2004,1,Wholesale and Retail Trade,1389,6.5
+2004,2,Wholesale and Retail Trade,1369,6.5
+2004,3,Wholesale and Retail Trade,1386,6.8
+2004,4,Wholesale and Retail Trade,1248,6.1
+2004,5,Wholesale and Retail Trade,1183,5.8
+2004,6,Wholesale and Retail Trade,1182,5.8
+2004,7,Wholesale and Retail Trade,1163,5.5
+2004,8,Wholesale and Retail Trade,1079,5.1
+2004,9,Wholesale and Retail Trade,1127,5.5
+2004,10,Wholesale and Retail Trade,1138,5.4
+2004,11,Wholesale and Retail Trade,1045,5.0
+2004,12,Wholesale and Retail Trade,1058,5.0
+2005,1,Wholesale and Retail Trade,1302,6.3
+2005,2,Wholesale and Retail Trade,1301,6.2
+2005,3,Wholesale and Retail Trade,1173,5.6
+2005,4,Wholesale and Retail Trade,1131,5.4
+2005,5,Wholesale and Retail Trade,1145,5.4
+2005,6,Wholesale and Retail Trade,1197,5.7
+2005,7,Wholesale and Retail Trade,1194,5.6
+2005,8,Wholesale and Retail Trade,1130,5.3
+2005,9,Wholesale and Retail Trade,1038,4.9
+2005,10,Wholesale and Retail Trade,1050,4.9
+2005,11,Wholesale and Retail Trade,1013,4.7
+2005,12,Wholesale and Retail Trade,968,4.5
+2006,1,Wholesale and Retail Trade,1203,5.7
+2006,2,Wholesale and Retail Trade,1141,5.4
+2006,3,Wholesale and Retail Trade,1022,4.9
+2006,4,Wholesale and Retail Trade,972,4.6
+2006,5,Wholesale and Retail Trade,1025,4.8
+2006,6,Wholesale and Retail Trade,1085,5.1
+2006,7,Wholesale and Retail Trade,1083,5.1
+2006,8,Wholesale and Retail Trade,977,4.7
+2006,9,Wholesale and Retail Trade,1008,4.9
+2006,10,Wholesale and Retail Trade,972,4.7
+2006,11,Wholesale and Retail Trade,1018,4.8
+2006,12,Wholesale and Retail Trade,965,4.5
+2007,1,Wholesale and Retail Trade,1166,5.5
+2007,2,Wholesale and Retail Trade,1045,5.1
+2007,3,Wholesale and Retail Trade,896,4.4
+2007,4,Wholesale and Retail Trade,872,4.2
+2007,5,Wholesale and Retail Trade,795,3.9
+2007,6,Wholesale and Retail Trade,979,4.6
+2007,7,Wholesale and Retail Trade,1089,5.2
+2007,8,Wholesale and Retail Trade,1028,5.1
+2007,9,Wholesale and Retail Trade,1027,5.1
+2007,10,Wholesale and Retail Trade,907,4.4
+2007,11,Wholesale and Retail Trade,893,4.3
+2007,12,Wholesale and Retail Trade,1009,4.8
+2008,1,Wholesale and Retail Trade,1120,5.4
+2008,2,Wholesale and Retail Trade,1007,4.9
+2008,3,Wholesale and Retail Trade,992,4.9
+2008,4,Wholesale and Retail Trade,919,4.5
+2008,5,Wholesale and Retail Trade,1049,5.2
+2008,6,Wholesale and Retail Trade,1160,5.7
+2008,7,Wholesale and Retail Trade,1329,6.5
+2008,8,Wholesale and Retail Trade,1366,6.6
+2008,9,Wholesale and Retail Trade,1277,6.2
+2008,10,Wholesale and Retail Trade,1313,6.3
+2008,11,Wholesale and Retail Trade,1397,6.7
+2008,12,Wholesale and Retail Trade,1535,7.2
+2009,1,Wholesale and Retail Trade,1794,8.7
+2009,2,Wholesale and Retail Trade,1847,8.9
+2009,3,Wholesale and Retail Trade,1852,9.0
+2009,4,Wholesale and Retail Trade,1833,9.0
+2009,5,Wholesale and Retail Trade,1835,9.0
+2009,6,Wholesale and Retail Trade,1863,9.1
+2009,7,Wholesale and Retail Trade,1854,9.0
+2009,8,Wholesale and Retail Trade,1794,8.8
+2009,9,Wholesale and Retail Trade,1809,9.0
+2009,10,Wholesale and Retail Trade,1919,9.6
+2009,11,Wholesale and Retail Trade,1879,9.2
+2009,12,Wholesale and Retail Trade,1851,9.1
+2010,1,Wholesale and Retail Trade,2154,10.5
+2010,2,Wholesale and Retail Trade,2071,10.0
+2000,1,Transportation and Utilities,236,4.3
+2000,2,Transportation and Utilities,223,4.0
+2000,3,Transportation and Utilities,192,3.5
+2000,4,Transportation and Utilities,191,3.4
+2000,5,Transportation and Utilities,190,3.4
+2000,6,Transportation and Utilities,183,3.2
+2000,7,Transportation and Utilities,228,3.9
+2000,8,Transportation and Utilities,198,3.4
+2000,9,Transportation and Utilities,231,4.0
+2000,10,Transportation and Utilities,153,2.8
+2000,11,Transportation and Utilities,129,2.3
+2000,12,Transportation and Utilities,168,3.1
+2001,1,Transportation and Utilities,194,3.6
+2001,2,Transportation and Utilities,189,3.4
+2001,3,Transportation and Utilities,193,3.5
+2001,4,Transportation and Utilities,232,4.2
+2001,5,Transportation and Utilities,178,3.1
+2001,6,Transportation and Utilities,242,4.3
+2001,7,Transportation and Utilities,236,4.2
+2001,8,Transportation and Utilities,226,3.9
+2001,9,Transportation and Utilities,214,3.9
+2001,10,Transportation and Utilities,321,5.8
+2001,11,Transportation and Utilities,302,5.4
+2001,12,Transportation and Utilities,310,5.6
+2002,1,Transportation and Utilities,368,6.6
+2002,2,Transportation and Utilities,331,5.7
+2002,3,Transportation and Utilities,313,5.6
+2002,4,Transportation and Utilities,280,5.0
+2002,5,Transportation and Utilities,257,4.5
+2002,6,Transportation and Utilities,274,4.9
+2002,7,Transportation and Utilities,270,4.9
+2002,8,Transportation and Utilities,221,3.9
+2002,9,Transportation and Utilities,235,4.2
+2002,10,Transportation and Utilities,262,4.7
+2002,11,Transportation and Utilities,233,4.2
+2002,12,Transportation and Utilities,243,4.6
+2003,1,Transportation and Utilities,331,6.3
+2003,2,Transportation and Utilities,316,5.8
+2003,3,Transportation and Utilities,319,5.9
+2003,4,Transportation and Utilities,274,5.0
+2003,5,Transportation and Utilities,260,4.9
+2003,6,Transportation and Utilities,300,5.5
+2003,7,Transportation and Utilities,289,5.4
+2003,8,Transportation and Utilities,255,4.8
+2003,9,Transportation and Utilities,255,4.7
+2003,10,Transportation and Utilities,260,4.8
+2003,11,Transportation and Utilities,275,5.1
+2003,12,Transportation and Utilities,267,5.0
+2004,1,Transportation and Utilities,243,4.6
+2004,2,Transportation and Utilities,291,5.5
+2004,3,Transportation and Utilities,284,5.4
+2004,4,Transportation and Utilities,239,4.5
+2004,5,Transportation and Utilities,230,4.4
+2004,6,Transportation and Utilities,227,4.3
+2004,7,Transportation and Utilities,231,4.3
+2004,8,Transportation and Utilities,236,4.4
+2004,9,Transportation and Utilities,208,3.9
+2004,10,Transportation and Utilities,219,4.0
+2004,11,Transportation and Utilities,217,4.0
+2004,12,Transportation and Utilities,204,3.8
+2005,1,Transportation and Utilities,276,5.0
+2005,2,Transportation and Utilities,245,4.4
+2005,3,Transportation and Utilities,267,4.8
+2005,4,Transportation and Utilities,257,4.7
+2005,5,Transportation and Utilities,223,4.1
+2005,6,Transportation and Utilities,247,4.5
+2005,7,Transportation and Utilities,222,3.9
+2005,8,Transportation and Utilities,187,3.3
+2005,9,Transportation and Utilities,211,3.7
+2005,10,Transportation and Utilities,251,4.4
+2005,11,Transportation and Utilities,199,3.5
+2005,12,Transportation and Utilities,202,3.6
+2006,1,Transportation and Utilities,287,5.0
+2006,2,Transportation and Utilities,260,4.6
+2006,3,Transportation and Utilities,263,4.7
+2006,4,Transportation and Utilities,272,4.8
+2006,5,Transportation and Utilities,226,4.0
+2006,6,Transportation and Utilities,225,3.9
+2006,7,Transportation and Utilities,237,4.2
+2006,8,Transportation and Utilities,217,3.7
+2006,9,Transportation and Utilities,183,3.1
+2006,10,Transportation and Utilities,206,3.6
+2006,11,Transportation and Utilities,183,3.1
+2006,12,Transportation and Utilities,190,3.2
+2007,1,Transportation and Utilities,248,4.2
+2007,2,Transportation and Utilities,251,4.2
+2007,3,Transportation and Utilities,249,4.3
+2007,4,Transportation and Utilities,188,3.3
+2007,5,Transportation and Utilities,216,3.8
+2007,6,Transportation and Utilities,242,4.1
+2007,7,Transportation and Utilities,309,5.1
+2007,8,Transportation and Utilities,205,3.4
+2007,9,Transportation and Utilities,224,3.7
+2007,10,Transportation and Utilities,218,3.6
+2007,11,Transportation and Utilities,242,3.9
+2007,12,Transportation and Utilities,210,3.4
+2008,1,Transportation and Utilities,271,4.4
+2008,2,Transportation and Utilities,289,4.6
+2008,3,Transportation and Utilities,267,4.3
+2008,4,Transportation and Utilities,245,4.0
+2008,5,Transportation and Utilities,269,4.3
+2008,6,Transportation and Utilities,329,5.1
+2008,7,Transportation and Utilities,359,5.7
+2008,8,Transportation and Utilities,309,5.2
+2008,9,Transportation and Utilities,337,5.8
+2008,10,Transportation and Utilities,316,5.7
+2008,11,Transportation and Utilities,331,5.8
+2008,12,Transportation and Utilities,421,6.7
+2009,1,Transportation and Utilities,522,8.4
+2009,2,Transportation and Utilities,563,9.1
+2009,3,Transportation and Utilities,558,9.0
+2009,4,Transportation and Utilities,541,9.0
+2009,5,Transportation and Utilities,506,8.5
+2009,6,Transportation and Utilities,499,8.4
+2009,7,Transportation and Utilities,511,8.8
+2009,8,Transportation and Utilities,547,9.8
+2009,9,Transportation and Utilities,538,9.5
+2009,10,Transportation and Utilities,480,8.6
+2009,11,Transportation and Utilities,493,8.5
+2009,12,Transportation and Utilities,539,9.0
+2010,1,Transportation and Utilities,657,11.3
+2010,2,Transportation and Utilities,591,10.5
+2000,1,Information,125,3.4
+2000,2,Information,112,2.9
+2000,3,Information,140,3.6
+2000,4,Information,95,2.4
+2000,5,Information,131,3.5
+2000,6,Information,102,2.6
+2000,7,Information,144,3.6
+2000,8,Information,143,3.7
+2000,9,Information,130,3.3
+2000,10,Information,96,2.4
+2000,11,Information,117,3.0
+2000,12,Information,151,4.0
+2001,1,Information,161,4.1
+2001,2,Information,109,2.9
+2001,3,Information,148,3.8
+2001,4,Information,148,3.7
+2001,5,Information,164,4.2
+2001,6,Information,163,4.1
+2001,7,Information,206,5.2
+2001,8,Information,210,5.4
+2001,9,Information,219,5.6
+2001,10,Information,233,6.0
+2001,11,Information,241,6.2
+2001,12,Information,275,7.4
+2002,1,Information,263,7.1
+2002,2,Information,279,7.6
+2002,3,Information,266,7.2
+2002,4,Information,257,6.9
+2002,5,Information,260,7.2
+2002,6,Information,255,6.9
+2002,7,Information,264,7.1
+2002,8,Information,270,7.1
+2002,9,Information,231,6.3
+2002,10,Information,211,6.0
+2002,11,Information,220,6.5
+2002,12,Information,255,7.2
+2003,1,Information,243,6.7
+2003,2,Information,321,8.6
+2003,3,Information,267,7.4
+2003,4,Information,268,7.3
+2003,5,Information,251,6.9
+2003,6,Information,239,6.4
+2003,7,Information,224,5.9
+2003,8,Information,224,6.1
+2003,9,Information,248,7.0
+2003,10,Information,182,5.4
+2003,11,Information,257,7.6
+2003,12,Information,224,6.5
+2004,1,Information,236,7.0
+2004,2,Information,194,5.8
+2004,3,Information,216,6.3
+2004,4,Information,168,5.0
+2004,5,Information,190,5.7
+2004,6,Information,172,5.0
+2004,7,Information,174,5.2
+2004,8,Information,191,5.7
+2004,9,Information,178,5.4
+2004,10,Information,185,5.6
+2004,11,Information,187,5.6
+2004,12,Information,173,5.7
+2005,1,Information,168,5.4
+2005,2,Information,204,6.5
+2005,3,Information,177,6.0
+2005,4,Information,178,5.9
+2005,5,Information,145,4.7
+2005,6,Information,160,5.0
+2005,7,Information,142,4.2
+2005,8,Information,156,4.6
+2005,9,Information,168,4.9
+2005,10,Information,162,4.8
+2005,11,Information,172,5.1
+2005,12,Information,128,3.7
+2006,1,Information,105,3.3
+2006,2,Information,119,3.7
+2006,3,Information,116,3.5
+2006,4,Information,132,4.2
+2006,5,Information,158,4.8
+2006,6,Information,114,3.4
+2006,7,Information,103,3.0
+2006,8,Information,132,3.9
+2006,9,Information,170,4.9
+2006,10,Information,116,3.4
+2006,11,Information,137,3.9
+2006,12,Information,108,2.9
+2007,1,Information,143,4.0
+2007,2,Information,139,4.0
+2007,3,Information,109,3.2
+2007,4,Information,77,2.4
+2007,5,Information,110,3.3
+2007,6,Information,114,3.4
+2007,7,Information,112,3.4
+2007,8,Information,140,4.1
+2007,9,Information,124,3.7
+2007,10,Information,120,3.7
+2007,11,Information,132,4.0
+2007,12,Information,125,3.7
+2008,1,Information,169,5.1
+2008,2,Information,193,5.8
+2008,3,Information,155,4.8
+2008,4,Information,143,4.4
+2008,5,Information,170,5.0
+2008,6,Information,157,4.7
+2008,7,Information,141,4.1
+2008,8,Information,144,4.2
+2008,9,Information,166,5.0
+2008,10,Information,168,5.0
+2008,11,Information,173,5.2
+2008,12,Information,219,6.9
+2009,1,Information,232,7.4
+2009,2,Information,224,7.1
+2009,3,Information,252,7.8
+2009,4,Information,320,10.1
+2009,5,Information,303,9.5
+2009,6,Information,347,11.1
+2009,7,Information,373,11.5
+2009,8,Information,358,10.7
+2009,9,Information,362,11.2
+2009,10,Information,261,8.2
+2009,11,Information,243,7.6
+2009,12,Information,256,8.5
+2010,1,Information,313,10.0
+2010,2,Information,300,10.0
+2000,1,Finance,228,2.7
+2000,2,Finance,240,2.8
+2000,3,Finance,226,2.6
+2000,4,Finance,197,2.3
+2000,5,Finance,195,2.2
+2000,6,Finance,216,2.5
+2000,7,Finance,190,2.2
+2000,8,Finance,213,2.5
+2000,9,Finance,187,2.2
+2000,10,Finance,224,2.6
+2000,11,Finance,184,2.1
+2000,12,Finance,200,2.3
+2001,1,Finance,232,2.6
+2001,2,Finance,235,2.6
+2001,3,Finance,211,2.4
+2001,4,Finance,232,2.6
+2001,5,Finance,191,2.2
+2001,6,Finance,249,2.8
+2001,7,Finance,289,3.3
+2001,8,Finance,256,2.9
+2001,9,Finance,268,3.1
+2001,10,Finance,281,3.3
+2001,11,Finance,320,3.6
+2001,12,Finance,258,3.0
+2002,1,Finance,267,3.0
+2002,2,Finance,318,3.5
+2002,3,Finance,287,3.2
+2002,4,Finance,292,3.3
+2002,5,Finance,340,3.8
+2002,6,Finance,373,4.1
+2002,7,Finance,345,3.8
+2002,8,Finance,343,3.8
+2002,9,Finance,299,3.3
+2002,10,Finance,312,3.5
+2002,11,Finance,337,3.7
+2002,12,Finance,322,3.6
+2003,1,Finance,327,3.6
+2003,2,Finance,310,3.4
+2003,3,Finance,357,4.0
+2003,4,Finance,323,3.6
+2003,5,Finance,320,3.6
+2003,6,Finance,358,4.0
+2003,7,Finance,284,3.1
+2003,8,Finance,342,3.7
+2003,9,Finance,305,3.3
+2003,10,Finance,303,3.3
+2003,11,Finance,311,3.3
+2003,12,Finance,283,3.0
+2004,1,Finance,403,4.3
+2004,2,Finance,363,3.8
+2004,3,Finance,343,3.7
+2004,4,Finance,312,3.4
+2004,5,Finance,302,3.3
+2004,6,Finance,335,3.6
+2004,7,Finance,307,3.3
+2004,8,Finance,312,3.4
+2004,9,Finance,374,4.0
+2004,10,Finance,358,3.8
+2004,11,Finance,290,3.1
+2004,12,Finance,290,3.1
+2005,1,Finance,252,2.7
+2005,2,Finance,301,3.2
+2005,3,Finance,261,2.7
+2005,4,Finance,255,2.7
+2005,5,Finance,288,3.1
+2005,6,Finance,307,3.3
+2005,7,Finance,309,3.3
+2005,8,Finance,300,3.2
+2005,9,Finance,260,2.7
+2005,10,Finance,255,2.7
+2005,11,Finance,268,2.8
+2005,12,Finance,204,2.1
+2006,1,Finance,233,2.4
+2006,2,Finance,268,2.8
+2006,3,Finance,298,3.1
+2006,4,Finance,293,3.1
+2006,5,Finance,289,3.0
+2006,6,Finance,299,3.1
+2006,7,Finance,329,3.4
+2006,8,Finance,263,2.7
+2006,9,Finance,235,2.4
+2006,10,Finance,211,2.1
+2006,11,Finance,229,2.3
+2006,12,Finance,227,2.3
+2007,1,Finance,233,2.4
+2007,2,Finance,295,3.1
+2007,3,Finance,252,2.6
+2007,4,Finance,231,2.4
+2007,5,Finance,281,2.9
+2007,6,Finance,303,3.1
+2007,7,Finance,307,3.1
+2007,8,Finance,371,3.7
+2007,9,Finance,316,3.3
+2007,10,Finance,307,3.2
+2007,11,Finance,261,2.7
+2007,12,Finance,315,3.2
+2008,1,Finance,285,3.0
+2008,2,Finance,323,3.4
+2008,3,Finance,323,3.4
+2008,4,Finance,324,3.4
+2008,5,Finance,361,3.7
+2008,6,Finance,337,3.4
+2008,7,Finance,350,3.6
+2008,8,Finance,409,4.2
+2008,9,Finance,380,4.0
+2008,10,Finance,434,4.5
+2008,11,Finance,494,5.2
+2008,12,Finance,540,5.6
+2009,1,Finance,571,6.0
+2009,2,Finance,637,6.7
+2009,3,Finance,639,6.8
+2009,4,Finance,561,6.0
+2009,5,Finance,536,5.7
+2009,6,Finance,513,5.5
+2009,7,Finance,570,6.1
+2009,8,Finance,566,6.0
+2009,9,Finance,657,7.1
+2009,10,Finance,646,7.0
+2009,11,Finance,619,6.7
+2009,12,Finance,665,7.2
+2010,1,Finance,623,6.6
+2010,2,Finance,708,7.5
+2000,1,Business services,655,5.7
+2000,2,Business services,587,5.2
+2000,3,Business services,623,5.4
+2000,4,Business services,517,4.5
+2000,5,Business services,561,4.7
+2000,6,Business services,545,4.4
+2000,7,Business services,636,5.1
+2000,8,Business services,584,4.8
+2000,9,Business services,559,4.6
+2000,10,Business services,504,4.1
+2000,11,Business services,547,4.4
+2000,12,Business services,564,4.5
+2001,1,Business services,734,5.8
+2001,2,Business services,724,5.9
+2001,3,Business services,652,5.3
+2001,4,Business services,655,5.3
+2001,5,Business services,652,5.3
+2001,6,Business services,694,5.4
+2001,7,Business services,731,5.7
+2001,8,Business services,790,6.2
+2001,9,Business services,810,6.4
+2001,10,Business services,910,7.2
+2001,11,Business services,946,7.6
+2001,12,Business services,921,7.4
+2002,1,Business services,1120,8.9
+2002,2,Business services,973,7.7
+2002,3,Business services,964,7.5
+2002,4,Business services,951,7.3
+2002,5,Business services,983,7.7
+2002,6,Business services,1079,8.2
+2002,7,Business services,1075,8.2
+2002,8,Business services,926,7.2
+2002,9,Business services,1007,7.8
+2002,10,Business services,962,7.5
+2002,11,Business services,1029,8.2
+2002,12,Business services,1038,8.3
+2003,1,Business services,1112,8.9
+2003,2,Business services,1140,8.9
+2003,3,Business services,1190,9.1
+2003,4,Business services,1076,8.3
+2003,5,Business services,1105,8.4
+2003,6,Business services,1092,8.5
+2003,7,Business services,1021,8.2
+2003,8,Business services,881,7.2
+2003,9,Business services,975,8.0
+2003,10,Business services,1014,8.1
+2003,11,Business services,948,7.7
+2003,12,Business services,948,7.6
+2004,1,Business services,1070,8.7
+2004,2,Business services,964,7.7
+2004,3,Business services,999,7.9
+2004,4,Business services,752,6.0
+2004,5,Business services,819,6.5
+2004,6,Business services,814,6.5
+2004,7,Business services,790,6.2
+2004,8,Business services,845,6.7
+2004,9,Business services,750,5.9
+2004,10,Business services,781,6.2
+2004,11,Business services,872,6.8
+2004,12,Business services,875,6.9
+2005,1,Business services,958,7.6
+2005,2,Business services,916,7.2
+2005,3,Business services,807,6.5
+2005,4,Business services,714,5.7
+2005,5,Business services,730,5.9
+2005,6,Business services,743,5.8
+2005,7,Business services,804,6.3
+2005,8,Business services,728,5.7
+2005,9,Business services,862,6.7
+2005,10,Business services,748,5.8
+2005,11,Business services,711,5.5
+2005,12,Business services,788,6.1
+2006,1,Business services,825,6.5
+2006,2,Business services,841,6.5
+2006,3,Business services,824,6.3
+2006,4,Business services,644,4.9
+2006,5,Business services,695,5.3
+2006,6,Business services,753,5.7
+2006,7,Business services,735,5.5
+2006,8,Business services,681,5.1
+2006,9,Business services,736,5.6
+2006,10,Business services,768,5.6
+2006,11,Business services,658,4.9
+2006,12,Business services,791,5.9
+2007,1,Business services,885,6.5
+2007,2,Business services,825,6.0
+2007,3,Business services,775,5.7
+2007,4,Business services,689,5.0
+2007,5,Business services,743,5.4
+2007,6,Business services,722,5.2
+2007,7,Business services,743,5.2
+2007,8,Business services,683,4.9
+2007,9,Business services,655,4.7
+2007,10,Business services,675,4.8
+2007,11,Business services,679,4.8
+2007,12,Business services,803,5.7
+2008,1,Business services,893,6.4
+2008,2,Business services,866,6.2
+2008,3,Business services,876,6.2
+2008,4,Business services,736,5.3
+2008,5,Business services,829,5.9
+2008,6,Business services,890,6.2
+2008,7,Business services,866,6.1
+2008,8,Business services,961,6.9
+2008,9,Business services,951,6.9
+2008,10,Business services,1052,7.5
+2008,11,Business services,992,7.0
+2008,12,Business services,1147,8.1
+2009,1,Business services,1445,10.4
+2009,2,Business services,1512,10.8
+2009,3,Business services,1597,11.4
+2009,4,Business services,1448,10.4
+2009,5,Business services,1514,10.9
+2009,6,Business services,1580,11.3
+2009,7,Business services,1531,10.9
+2009,8,Business services,1560,11.0
+2009,9,Business services,1596,11.3
+2009,10,Business services,1488,10.3
+2009,11,Business services,1514,10.6
+2009,12,Business services,1486,10.3
+2010,1,Business services,1614,11.1
+2010,2,Business services,1740,12.0
+2000,1,Education and Health,353,2.3
+2000,2,Education and Health,349,2.2
+2000,3,Education and Health,381,2.5
+2000,4,Education and Health,329,2.1
+2000,5,Education and Health,423,2.7
+2000,6,Education and Health,452,2.9
+2000,7,Education and Health,478,3.1
+2000,8,Education and Health,450,2.9
+2000,9,Education and Health,398,2.6
+2000,10,Education and Health,339,2.1
+2000,11,Education and Health,351,2.2
+2000,12,Education and Health,293,1.8
+2001,1,Education and Health,428,2.6
+2001,2,Education and Health,423,2.6
+2001,3,Education and Health,456,2.8
+2001,4,Education and Health,341,2.1
+2001,5,Education and Health,390,2.4
+2001,6,Education and Health,476,3.0
+2001,7,Education and Health,513,3.1
+2001,8,Education and Health,595,3.7
+2001,9,Education and Health,455,2.8
+2001,10,Education and Health,486,2.9
+2001,11,Education and Health,516,3.1
+2001,12,Education and Health,483,2.9
+2002,1,Education and Health,586,3.5
+2002,2,Education and Health,590,3.5
+2002,3,Education and Health,540,3.2
+2002,4,Education and Health,493,2.9
+2002,5,Education and Health,533,3.2
+2002,6,Education and Health,638,3.9
+2002,7,Education and Health,671,4.0
+2002,8,Education and Health,660,3.9
+2002,9,Education and Health,562,3.2
+2002,10,Education and Health,517,3.0
+2002,11,Education and Health,493,2.8
+2002,12,Education and Health,558,3.2
+2003,1,Education and Health,559,3.2
+2003,2,Education and Health,576,3.2
+2003,3,Education and Health,518,2.9
+2003,4,Education and Health,611,3.4
+2003,5,Education and Health,618,3.5
+2003,6,Education and Health,769,4.4
+2003,7,Education and Health,697,4.0
+2003,8,Education and Health,760,4.3
+2003,9,Education and Health,649,3.7
+2003,10,Education and Health,639,3.6
+2003,11,Education and Health,662,3.8
+2003,12,Education and Health,620,3.5
+2004,1,Education and Health,662,3.7
+2004,2,Education and Health,608,3.4
+2004,3,Education and Health,584,3.2
+2004,4,Education and Health,589,3.3
+2004,5,Education and Health,570,3.2
+2004,6,Education and Health,769,4.2
+2004,7,Education and Health,725,4.0
+2004,8,Education and Health,647,3.7
+2004,9,Education and Health,593,3.3
+2004,10,Education and Health,526,2.9
+2004,11,Education and Health,570,3.2
+2004,12,Education and Health,562,3.1
+2005,1,Education and Health,613,3.4
+2005,2,Education and Health,619,3.4
+2005,3,Education and Health,614,3.4
+2005,4,Education and Health,591,3.3
+2005,5,Education and Health,648,3.6
+2005,6,Education and Health,667,3.6
+2005,7,Education and Health,635,3.5
+2005,8,Education and Health,644,3.5
+2005,9,Education and Health,658,3.5
+2005,10,Education and Health,628,3.4
+2005,11,Education and Health,677,3.6
+2005,12,Education and Health,529,2.8
+2006,1,Education and Health,593,3.2
+2006,2,Education and Health,528,2.8
+2006,3,Education and Health,563,3.0
+2006,4,Education and Health,558,3.0
+2006,5,Education and Health,543,2.9
+2006,6,Education and Health,617,3.3
+2006,7,Education and Health,659,3.5
+2006,8,Education and Health,611,3.2
+2006,9,Education and Health,576,3.0
+2006,10,Education and Health,531,2.8
+2006,11,Education and Health,536,2.8
+2006,12,Education and Health,502,2.6
+2007,1,Education and Health,563,2.9
+2007,2,Education and Health,489,2.5
+2007,3,Education and Health,495,2.5
+2007,4,Education and Health,555,2.9
+2007,5,Education and Health,622,3.3
+2007,6,Education and Health,653,3.4
+2007,7,Education and Health,665,3.5
+2007,8,Education and Health,648,3.4
+2007,9,Education and Health,630,3.2
+2007,10,Education and Health,534,2.7
+2007,11,Education and Health,526,2.7
+2007,12,Education and Health,521,2.6
+2008,1,Education and Health,576,2.9
+2008,2,Education and Health,562,2.9
+2008,3,Education and Health,609,3.1
+2008,4,Education and Health,551,2.8
+2008,5,Education and Health,619,3.2
+2008,6,Education and Health,669,3.4
+2008,7,Education and Health,776,3.9
+2008,8,Education and Health,844,4.3
+2008,9,Education and Health,835,4.1
+2008,10,Education and Health,797,3.9
+2008,11,Education and Health,748,3.6
+2008,12,Education and Health,791,3.8
+2009,1,Education and Health,792,3.8
+2009,2,Education and Health,847,4.1
+2009,3,Education and Health,931,4.5
+2009,4,Education and Health,964,4.6
+2009,5,Education and Health,1005,4.9
+2009,6,Education and Health,1267,6.1
+2009,7,Education and Health,1269,6.1
+2009,8,Education and Health,1239,6.0
+2009,9,Education and Health,1257,6.0
+2009,10,Education and Health,1280,6.0
+2009,11,Education and Health,1168,5.5
+2009,12,Education and Health,1183,5.6
+2010,1,Education and Health,1175,5.5
+2010,2,Education and Health,1200,5.6
+2000,1,Leisure and hospitality,782,7.5
+2000,2,Leisure and hospitality,779,7.5
+2000,3,Leisure and hospitality,789,7.4
+2000,4,Leisure and hospitality,658,6.1
+2000,5,Leisure and hospitality,675,6.2
+2000,6,Leisure and hospitality,833,7.3
+2000,7,Leisure and hospitality,786,6.8
+2000,8,Leisure and hospitality,675,6.0
+2000,9,Leisure and hospitality,636,5.9
+2000,10,Leisure and hospitality,691,6.5
+2000,11,Leisure and hospitality,694,6.5
+2000,12,Leisure and hospitality,639,5.9
+2001,1,Leisure and hospitality,806,7.7
+2001,2,Leisure and hospitality,821,7.5
+2001,3,Leisure and hospitality,817,7.4
+2001,4,Leisure and hospitality,744,6.8
+2001,5,Leisure and hospitality,731,6.7
+2001,6,Leisure and hospitality,821,7.0
+2001,7,Leisure and hospitality,813,6.8
+2001,8,Leisure and hospitality,767,6.8
+2001,9,Leisure and hospitality,900,8.0
+2001,10,Leisure and hospitality,903,8.3
+2001,11,Leisure and hospitality,935,8.5
+2001,12,Leisure and hospitality,938,8.5
+2002,1,Leisure and hospitality,947,8.6
+2002,2,Leisure and hospitality,973,8.7
+2002,3,Leisure and hospitality,976,8.5
+2002,4,Leisure and hospitality,953,8.4
+2002,5,Leisure and hospitality,1022,8.6
+2002,6,Leisure and hospitality,1034,8.5
+2002,7,Leisure and hospitality,999,8.2
+2002,8,Leisure and hospitality,884,7.5
+2002,9,Leisure and hospitality,885,7.9
+2002,10,Leisure and hospitality,956,8.5
+2002,11,Leisure and hospitality,978,8.9
+2002,12,Leisure and hospitality,922,8.2
+2003,1,Leisure and hospitality,1049,9.3
+2003,2,Leisure and hospitality,1145,10.0
+2003,3,Leisure and hospitality,1035,8.9
+2003,4,Leisure and hospitality,986,8.5
+2003,5,Leisure and hospitality,955,7.9
+2003,6,Leisure and hospitality,1048,8.6
+2003,7,Leisure and hospitality,1020,8.4
+2003,8,Leisure and hospitality,1050,9.0
+2003,9,Leisure and hospitality,978,8.8
+2003,10,Leisure and hospitality,933,8.3
+2003,11,Leisure and hospitality,990,9.0
+2003,12,Leisure and hospitality,885,8.2
+2004,1,Leisure and hospitality,1097,10.0
+2004,2,Leisure and hospitality,987,8.9
+2004,3,Leisure and hospitality,1039,9.0
+2004,4,Leisure and hospitality,925,7.9
+2004,5,Leisure and hospitality,977,8.1
+2004,6,Leisure and hospitality,1189,9.6
+2004,7,Leisure and hospitality,965,7.8
+2004,8,Leisure and hospitality,1010,8.4
+2004,9,Leisure and hospitality,854,7.5
+2004,10,Leisure and hospitality,853,7.3
+2004,11,Leisure and hospitality,916,7.9
+2004,12,Leisure and hospitality,850,7.4
+2005,1,Leisure and hospitality,993,8.7
+2005,2,Leisure and hospitality,1008,8.8
+2005,3,Leisure and hospitality,967,8.3
+2005,4,Leisure and hospitality,882,7.7
+2005,5,Leisure and hospitality,944,7.7
+2005,6,Leisure and hospitality,950,7.6
+2005,7,Leisure and hospitality,929,7.4
+2005,8,Leisure and hospitality,844,6.8
+2005,9,Leisure and hospitality,842,7.3
+2005,10,Leisure and hospitality,796,6.8
+2005,11,Leisure and hospitality,966,8.1
+2005,12,Leisure and hospitality,930,7.9
+2006,1,Leisure and hospitality,910,8.1
+2006,2,Leisure and hospitality,1040,9.1
+2006,3,Leisure and hospitality,917,8.0
+2006,4,Leisure and hospitality,882,7.6
+2006,5,Leisure and hospitality,830,7.0
+2006,6,Leisure and hospitality,942,7.4
+2006,7,Leisure and hospitality,867,6.8
+2006,8,Leisure and hospitality,855,6.9
+2006,9,Leisure and hospitality,810,6.9
+2006,10,Leisure and hospitality,795,6.6
+2006,11,Leisure and hospitality,836,7.1
+2006,12,Leisure and hospitality,701,5.9
+2007,1,Leisure and hospitality,911,7.8
+2007,2,Leisure and hospitality,879,7.4
+2007,3,Leisure and hospitality,845,7.0
+2007,4,Leisure and hospitality,822,6.9
+2007,5,Leisure and hospitality,831,6.8
+2007,6,Leisure and hospitality,917,7.2
+2007,7,Leisure and hospitality,920,7.3
+2007,8,Leisure and hospitality,877,7.1
+2007,9,Leisure and hospitality,892,7.4
+2007,10,Leisure and hospitality,911,7.5
+2007,11,Leisure and hospitality,986,8.1
+2007,12,Leisure and hospitality,961,7.9
+2008,1,Leisure and hospitality,1176,9.4
+2008,2,Leisure and hospitality,1056,8.5
+2008,3,Leisure and hospitality,944,7.6
+2008,4,Leisure and hospitality,874,6.9
+2008,5,Leisure and hospitality,1074,8.4
+2008,6,Leisure and hospitality,1154,8.9
+2008,7,Leisure and hospitality,1172,8.8
+2008,8,Leisure and hospitality,1122,8.7
+2008,9,Leisure and hospitality,1029,8.2
+2008,10,Leisure and hospitality,1126,8.9
+2008,11,Leisure and hospitality,1283,9.9
+2008,12,Leisure and hospitality,1210,9.5
+2009,1,Leisure and hospitality,1487,11.5
+2009,2,Leisure and hospitality,1477,11.4
+2009,3,Leisure and hospitality,1484,11.6
+2009,4,Leisure and hospitality,1322,10.2
+2009,5,Leisure and hospitality,1599,11.9
+2009,6,Leisure and hospitality,1688,12.1
+2009,7,Leisure and hospitality,1600,11.2
+2009,8,Leisure and hospitality,1636,12.0
+2009,9,Leisure and hospitality,1469,11.4
+2009,10,Leisure and hospitality,1604,12.4
+2009,11,Leisure and hospitality,1524,11.9
+2009,12,Leisure and hospitality,1624,12.6
+2010,1,Leisure and hospitality,1804,14.2
+2010,2,Leisure and hospitality,1597,12.7
+2000,1,Other,274,4.9
+2000,2,Other,232,4.1
+2000,3,Other,247,4.3
+2000,4,Other,240,4.2
+2000,5,Other,254,4.5
+2000,6,Other,225,3.9
+2000,7,Other,202,3.7
+2000,8,Other,187,3.5
+2000,9,Other,220,4.0
+2000,10,Other,161,2.9
+2000,11,Other,217,3.8
+2000,12,Other,167,2.9
+2001,1,Other,197,3.4
+2001,2,Other,243,4.2
+2001,3,Other,200,3.4
+2001,4,Other,220,3.8
+2001,5,Other,172,3.2
+2001,6,Other,246,4.6
+2001,7,Other,228,4.1
+2001,8,Other,241,4.5
+2001,9,Other,225,4.0
+2001,10,Other,239,4.1
+2001,11,Other,256,4.2
+2001,12,Other,277,4.5
+2002,1,Other,304,5.1
+2002,2,Other,339,5.6
+2002,3,Other,314,5.5
+2002,4,Other,268,4.6
+2002,5,Other,264,4.6
+2002,6,Other,335,5.5
+2002,7,Other,356,5.8
+2002,8,Other,353,6.0
+2002,9,Other,281,4.8
+2002,10,Other,272,4.6
+2002,11,Other,284,4.9
+2002,12,Other,241,4.2
+2003,1,Other,304,5.3
+2003,2,Other,331,5.7
+2003,3,Other,370,6.1
+2003,4,Other,331,5.5
+2003,5,Other,339,5.7
+2003,6,Other,359,5.9
+2003,7,Other,405,6.6
+2003,8,Other,373,6.1
+2003,9,Other,338,5.5
+2003,10,Other,378,6.1
+2003,11,Other,357,5.8
+2003,12,Other,278,4.5
+2004,1,Other,322,5.3
+2004,2,Other,366,5.9
+2004,3,Other,366,5.9
+2004,4,Other,347,5.6
+2004,5,Other,310,5.1
+2004,6,Other,326,5.4
+2004,7,Other,346,5.6
+2004,8,Other,341,5.6
+2004,9,Other,301,4.9
+2004,10,Other,300,4.8
+2004,11,Other,294,4.8
+2004,12,Other,276,4.3
+2005,1,Other,290,4.7
+2005,2,Other,325,5.3
+2005,3,Other,308,5.0
+2005,4,Other,306,4.9
+2005,5,Other,314,5.0
+2005,6,Other,291,4.6
+2005,7,Other,274,4.2
+2005,8,Other,306,4.8
+2005,9,Other,307,4.9
+2005,10,Other,319,5.0
+2005,11,Other,300,4.9
+2005,12,Other,269,4.3
+2006,1,Other,308,4.9
+2006,2,Other,281,4.4
+2006,3,Other,292,4.6
+2006,4,Other,266,4.1
+2006,5,Other,265,4.2
+2006,6,Other,265,4.3
+2006,7,Other,305,4.7
+2006,8,Other,341,5.3
+2006,9,Other,310,5.0
+2006,10,Other,268,4.4
+2006,11,Other,306,5.0
+2006,12,Other,306,5.2
+2007,1,Other,275,4.7
+2007,2,Other,257,4.3
+2007,3,Other,222,3.7
+2007,4,Other,224,3.6
+2007,5,Other,242,3.9
+2007,6,Other,256,4.0
+2007,7,Other,243,3.8
+2007,8,Other,239,3.8
+2007,9,Other,257,4.2
+2007,10,Other,182,3.0
+2007,11,Other,255,4.1
+2007,12,Other,235,3.9
+2008,1,Other,264,4.4
+2008,2,Other,313,5.1
+2008,3,Other,283,4.6
+2008,4,Other,251,4.0
+2008,5,Other,275,4.4
+2008,6,Other,322,5.0
+2008,7,Other,352,5.2
+2008,8,Other,412,6.3
+2008,9,Other,374,5.8
+2008,10,Other,334,5.3
+2008,11,Other,434,7.0
+2008,12,Other,367,6.1
+2009,1,Other,431,7.1
+2009,2,Other,453,7.3
+2009,3,Other,377,6.0
+2009,4,Other,403,6.4
+2009,5,Other,476,7.5
+2009,6,Other,557,8.4
+2009,7,Other,490,7.4
+2009,8,Other,528,8.2
+2009,9,Other,462,7.1
+2009,10,Other,541,8.5
+2009,11,Other,491,8.0
+2009,12,Other,513,8.2
+2010,1,Other,609,10.0
+2010,2,Other,603,9.9
+2000,1,Agriculture,154,10.3
+2000,2,Agriculture,173,11.5
+2000,3,Agriculture,152,10.4
+2000,4,Agriculture,135,8.9
+2000,5,Agriculture,73,5.1
+2000,6,Agriculture,109,6.7
+2000,7,Agriculture,77,5.0
+2000,8,Agriculture,110,7.0
+2000,9,Agriculture,124,8.2
+2000,10,Agriculture,113,8.0
+2000,11,Agriculture,192,13.3
+2000,12,Agriculture,196,13.9
+2001,1,Agriculture,188,13.8
+2001,2,Agriculture,193,15.1
+2001,3,Agriculture,267,19.2
+2001,4,Agriculture,140,10.4
+2001,5,Agriculture,109,7.7
+2001,6,Agriculture,130,9.7
+2001,7,Agriculture,113,7.6
+2001,8,Agriculture,141,9.3
+2001,9,Agriculture,101,7.2
+2001,10,Agriculture,118,8.7
+2001,11,Agriculture,145,11.6
+2001,12,Agriculture,192,15.1
+2002,1,Agriculture,195,14.8
+2002,2,Agriculture,187,14.8
+2002,3,Agriculture,269,19.6
+2002,4,Agriculture,151,10.8
+2002,5,Agriculture,89,6.8
+2002,6,Agriculture,89,6.3
+2002,7,Agriculture,114,7.3
+2002,8,Agriculture,125,9.0
+2002,9,Agriculture,92,6.3
+2002,10,Agriculture,97,6.6
+2002,11,Agriculture,137,11.1
+2002,12,Agriculture,120,9.8
+2003,1,Agriculture,159,13.2
+2003,2,Agriculture,172,14.7
+2003,3,Agriculture,161,12.9
+2003,4,Agriculture,154,12.0
+2003,5,Agriculture,133,10.2
+2003,6,Agriculture,94,6.9
+2003,7,Agriculture,113,8.2
+2003,8,Agriculture,173,10.7
+2003,9,Agriculture,98,6.2
+2003,10,Agriculture,136,8.5
+2003,11,Agriculture,148,10.3
+2003,12,Agriculture,137,10.9
+2004,1,Agriculture,184,15.1
+2004,2,Agriculture,168,14.2
+2004,3,Agriculture,153,12.7
+2004,4,Agriculture,107,8.3
+2004,5,Agriculture,99,7.4
+2004,6,Agriculture,106,7.6
+2004,7,Agriculture,140,10.0
+2004,8,Agriculture,103,7.0
+2004,9,Agriculture,88,6.4
+2004,10,Agriculture,102,7.7
+2004,11,Agriculture,131,10.5
+2004,12,Agriculture,165,14.0
+2005,1,Agriculture,153,13.2
+2005,2,Agriculture,107,9.9
+2005,3,Agriculture,139,11.8
+2005,4,Agriculture,84,6.9
+2005,5,Agriculture,66,5.3
+2005,6,Agriculture,76,5.2
+2005,7,Agriculture,69,4.7
+2005,8,Agriculture,100,7.1
+2005,9,Agriculture,127,9.5
+2005,10,Agriculture,85,6.7
+2005,11,Agriculture,118,9.6
+2005,12,Agriculture,127,11.1
+2006,1,Agriculture,140,11.5
+2006,2,Agriculture,139,11.8
+2006,3,Agriculture,117,9.8
+2006,4,Agriculture,81,6.2
+2006,5,Agriculture,79,6.0
+2006,6,Agriculture,35,2.4
+2006,7,Agriculture,55,3.6
+2006,8,Agriculture,76,5.3
+2006,9,Agriculture,78,5.9
+2006,10,Agriculture,77,5.8
+2006,11,Agriculture,125,9.6
+2006,12,Agriculture,139,10.4
+2007,1,Agriculture,128,10.0
+2007,2,Agriculture,127,9.6
+2007,3,Agriculture,123,9.7
+2007,4,Agriculture,67,5.7
+2007,5,Agriculture,64,5.1
+2007,6,Agriculture,59,4.5
+2007,7,Agriculture,40,3.1
+2007,8,Agriculture,54,4.7
+2007,9,Agriculture,53,4.3
+2007,10,Agriculture,47,4.0
+2007,11,Agriculture,80,6.6
+2007,12,Agriculture,96,7.5
+2008,1,Agriculture,113,9.5
+2008,2,Agriculture,135,10.9
+2008,3,Agriculture,175,13.2
+2008,4,Agriculture,108,8.6
+2008,5,Agriculture,94,7.4
+2008,6,Agriculture,86,6.1
+2008,7,Agriculture,125,8.5
+2008,8,Agriculture,111,7.6
+2008,9,Agriculture,84,5.8
+2008,10,Agriculture,97,7.1
+2008,11,Agriculture,119,9.5
+2008,12,Agriculture,229,17.0
+2009,1,Agriculture,245,18.7
+2009,2,Agriculture,251,18.8
+2009,3,Agriculture,241,19.0
+2009,4,Agriculture,176,13.5
+2009,5,Agriculture,136,10.0
+2009,6,Agriculture,182,12.3
+2009,7,Agriculture,180,12.1
+2009,8,Agriculture,195,13.1
+2009,9,Agriculture,150,11.1
+2009,10,Agriculture,166,11.8
+2009,11,Agriculture,180,12.6
+2009,12,Agriculture,292,19.7
+2010,1,Agriculture,318,21.3
+2010,2,Agriculture,285,18.8
+2000,1,Self-employed,239,2.3
+2000,2,Self-employed,262,2.5
+2000,3,Self-employed,213,2.0
+2000,4,Self-employed,218,2.0
+2000,5,Self-employed,206,1.9
+2000,6,Self-employed,188,1.8
+2000,7,Self-employed,222,2.1
+2000,8,Self-employed,186,1.7
+2000,9,Self-employed,213,2.0
+2000,10,Self-employed,226,2.2
+2000,11,Self-employed,273,2.7
+2000,12,Self-employed,178,1.8
+2001,1,Self-employed,194,1.9
+2001,2,Self-employed,209,2.0
+2001,3,Self-employed,181,1.7
+2001,4,Self-employed,216,2.1
+2001,5,Self-employed,206,2.0
+2001,6,Self-employed,187,1.7
+2001,7,Self-employed,191,1.8
+2001,8,Self-employed,243,2.3
+2001,9,Self-employed,256,2.4
+2001,10,Self-employed,247,2.3
+2001,11,Self-employed,234,2.3
+2001,12,Self-employed,249,2.5
+2002,1,Self-employed,263,2.7
+2002,2,Self-employed,250,2.6
+2002,3,Self-employed,217,2.2
+2002,4,Self-employed,255,2.5
+2002,5,Self-employed,264,2.6
+2002,6,Self-employed,246,2.4
+2002,7,Self-employed,249,2.4
+2002,8,Self-employed,271,2.6
+2002,9,Self-employed,266,2.5
+2002,10,Self-employed,275,2.6
+2002,11,Self-employed,297,2.8
+2002,12,Self-employed,327,3.1
+2003,1,Self-employed,324,3.0
+2003,2,Self-employed,304,3.0
+2003,3,Self-employed,279,2.7
+2003,4,Self-employed,248,2.4
+2003,5,Self-employed,271,2.6
+2003,6,Self-employed,295,2.7
+2003,7,Self-employed,270,2.5
+2003,8,Self-employed,302,2.7
+2003,9,Self-employed,287,2.6
+2003,10,Self-employed,338,3.1
+2003,11,Self-employed,308,2.8
+2003,12,Self-employed,299,2.8
+2004,1,Self-employed,302,2.8
+2004,2,Self-employed,260,2.5
+2004,3,Self-employed,260,2.5
+2004,4,Self-employed,242,2.3
+2004,5,Self-employed,287,2.7
+2004,6,Self-employed,306,2.8
+2004,7,Self-employed,291,2.6
+2004,8,Self-employed,324,2.9
+2004,9,Self-employed,362,3.3
+2004,10,Self-employed,301,2.7
+2004,11,Self-employed,353,3.2
+2004,12,Self-employed,341,3.2
+2005,1,Self-employed,346,3.2
+2005,2,Self-employed,363,3.4
+2005,3,Self-employed,312,2.9
+2005,4,Self-employed,273,2.4
+2005,5,Self-employed,299,2.7
+2005,6,Self-employed,268,2.4
+2005,7,Self-employed,282,2.5
+2005,8,Self-employed,249,2.3
+2005,9,Self-employed,282,2.6
+2005,10,Self-employed,255,2.3
+2005,11,Self-employed,319,3.0
+2005,12,Self-employed,327,3.1
+2006,1,Self-employed,341,3.2
+2006,2,Self-employed,332,3.1
+2006,3,Self-employed,300,2.8
+2006,4,Self-employed,334,3.1
+2006,5,Self-employed,251,2.3
+2006,6,Self-employed,245,2.2
+2006,7,Self-employed,291,2.6
+2006,8,Self-employed,306,2.7
+2006,9,Self-employed,299,2.7
+2006,10,Self-employed,275,2.5
+2006,11,Self-employed,257,2.3
+2006,12,Self-employed,287,2.6
+2007,1,Self-employed,376,3.5
+2007,2,Self-employed,300,2.8
+2007,3,Self-employed,311,2.8
+2007,4,Self-employed,240,2.2
+2007,5,Self-employed,276,2.5
+2007,6,Self-employed,258,2.3
+2007,7,Self-employed,324,2.9
+2007,8,Self-employed,315,2.9
+2007,9,Self-employed,304,2.8
+2007,10,Self-employed,338,3.1
+2007,11,Self-employed,336,3.2
+2007,12,Self-employed,326,3.2
+2008,1,Self-employed,338,3.3
+2008,2,Self-employed,340,3.2
+2008,3,Self-employed,346,3.3
+2008,4,Self-employed,338,3.2
+2008,5,Self-employed,366,3.4
+2008,6,Self-employed,364,3.3
+2008,7,Self-employed,345,3.1
+2008,8,Self-employed,378,3.5
+2008,9,Self-employed,414,3.9
+2008,10,Self-employed,396,3.9
+2008,11,Self-employed,411,4.1
+2008,12,Self-employed,559,5.5
+2009,1,Self-employed,659,6.5
+2009,2,Self-employed,586,5.7
+2009,3,Self-employed,625,5.9
+2009,4,Self-employed,488,4.6
+2009,5,Self-employed,530,5.0
+2009,6,Self-employed,472,4.4
+2009,7,Self-employed,552,5.2
+2009,8,Self-employed,569,5.3
+2009,9,Self-employed,636,5.9
+2009,10,Self-employed,610,5.9
+2009,11,Self-employed,592,5.7
+2009,12,Self-employed,609,5.9
+2010,1,Self-employed,730,7.2
+2010,2,Self-employed,680,6.5
